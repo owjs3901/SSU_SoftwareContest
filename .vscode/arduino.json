@@ -1,5 +1,6 @@
 {
     "sketch": "app.ino",
-    "board": "arduino:avr:bt",
-    "configuration": "cpu=atmega328"
+    "board": "arduino:avr:pro",
+    "configuration": "cpu=16MHzatmega328",
+    "port": "COM14"
 }
