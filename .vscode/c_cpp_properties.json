@@ -3,6 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
+                "C:\\Users\\ojm\\Documents\\Arduino\\libraries\\SparkFun_LIS3DH_Arduino_Library\\src",
                 "C:\\Users\\M\\Documents\\Arduino\\libraries\\Adafruit_Unified_Sensor",
                 "C:\\Users\\M\\Documents\\Arduino\\libraries\\Adafruit_LIS3DH",
                 "C:\\Program Files (x86)\\Arduino\\tools\\**",
