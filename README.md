@@ -6,5 +6,8 @@
 
 장갑형 디바이스와 Depth Camera를 이용한 3D 모션인식 User Interface  
 
-
-
+## 구성원
+- [오정민](https://github.com/owjs3901)
+- 이경주
+- 김민주
+- 금기현
